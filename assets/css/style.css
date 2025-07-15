@@ -555,7 +555,7 @@ h3.title {
 
 /*about.html*/
 .banner {
-    background-image: url(../assets/images/banner.png);
+    background-image: url(../images/banner.png);
     background-position: center;
     height: 400px;
     background-repeat: no-repeat;
